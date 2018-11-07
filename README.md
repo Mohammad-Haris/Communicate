@@ -2,6 +2,7 @@
 Transmitter to receiver communication simulation in a noisy environment. 
 
 ---------------------------------------
+
 All basic steps of digital communication included e.g. sampling, quatization, modulation, demodulation, symbol creation etc. 
 Pushed as it is. Will make corrections later.
 
